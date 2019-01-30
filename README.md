@@ -1,6 +1,7 @@
 # MLProject
-Binary Classification to predict tennis match duration
-These python scripts use scikit-learn library to apply the machine learning algorithms.
+This project uses Binary Classification to predict the class of tennis match duration.
+
+The python scripts use scikit-learn library to apply the machine learning algorithms.
 https://scikit-learn.org/stable/index.html
 
 i also uploaded the Tennis dataset here for two reasons:
