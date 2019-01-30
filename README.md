@@ -4,12 +4,13 @@ This project uses Binary Classification to predict the class of tennis match dur
 The python scripts use scikit-learn library to apply the machine learning algorithms.
 https://scikit-learn.org/stable/index.html
 
-i also uploaded the Tennis dataset here for two reasons:
-the first one is that i corrected wrong entries of the orginal files uploaded at the following link:
+I also uploaded the Tennis dataset here for two reasons:
+the first one is that I corrected wrong entries of the orginal files uploaded at the following link:
 https://github.com/JeffSackmann/tennis_atp
-and i only used a part of the historical data and applied the code to the files of the years from 2009-2015
+and I only used a part of the historical data and applied the code to the files of the years from 2009-2015
 
 The python scripts are:
+
 1-Features_Extraction.py:
 this script cleanse the data and apply map functions on the features to produce the dimensions used for prediction.
 
