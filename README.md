@@ -15,6 +15,7 @@ The python scripts are:
 this script cleanse the data and apply map functions on the features to produce the dimensions used for prediction.
 
 in any order you like:
+
 2-LogisticRegression.py:
 this script applies Logistic Regression Classifier to predict the target variable
 
